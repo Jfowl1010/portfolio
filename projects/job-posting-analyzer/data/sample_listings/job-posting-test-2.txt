@@ -1,0 +1,135 @@
+GovCIO logo
+GovCIO
+Share
+Show more options
+Java - Mainframe Programmer 
+United States · Reposted 2 weeks ago · Over 100 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+
+
+$82K/yr - $95K/yr
+
+Remote
+
+Full-time
+
+Apply
+
+Save
+Save Java - Mainframe Programmer  at GovCIO
+Java - Mainframe Programmer
+GovCIO · United States (Remote)
+
+Apply
+
+Save
+Save Java - Mainframe Programmer  at GovCIO
+Show more options
+How your profile and resume fit this job
+Get AI-powered advice on this job and more exclusive features with Premium. Retry Premium for $0
+
+
+
+Show match details
+
+Tailor my resume
+
+Help me stand out
+
+About the job
+Overview
+
+GovCIO is currently hiring for Java - Mainframe Developer to perform maintenance, remediation's, and updates to mission critical applications used to support the DCSA background investigation processes. The position does not require legacy/mainframe experience, but candidates MUST to be open to learning the "Legacy/Mainframe technologies" Provide architecture, development and cyber security support for the High Value Assets (HVAs) that make up the background investigation system. This position is located in Baltimore, MD, Quantico, VA, or Boyers, PA and will be a full remote position.
+
+Responsibilities
+
+In this role you will support the Defense Counterintelligence Security Agency (DCSA), Background Information Systems (BIS), Case Processing and other background investigation systems. The successful candidate will support requirements elicitation, analysis, development, testing, and application level operational support for mission critical applications providing background investigation processing. The position serves as a member of the development team working both operational and maintenance (O&M) and enhancement initiatives associated with application-level development and operations support. The position requires interaction and coordination touchpoints related to infrastructure, networking, security, and other support entities. ServiceNow is the primary workflow management tool used within the environment.
+
+Specific Responsibilities Will Include
+
+Designs and codes applications following specifications using the appropriate tools
+Maintains and modifies existing software applications.
+Analyzes detailed systems factors, including input and output requirements, information flow, hardware and software requirements, and alternative methods of problem resolution.
+Performs modifications to and maintenance of operational programs and procedures.
+Participates in code reviews to represent reviewed work for adherence to standards and specifications.
+Writes or revises program documentation, operations documentation and user guides in accordance with standards.
+Resolves problems with software and responds to suggestions for improvements and enhancements. 
+Acts as team member on projects.
+
+Qualifications
+
+Bachelor's with 5 - 8 years (or commensurate experience)
+
+Required Skills And Experience
+
+Must be open to learning legacy technologies and tools such as Natural 
+Experience 4 to 6 years of Java development
+Proficiency in building web-based applications
+In-depth knowledge of Java, JEE
+Familiarity with agile environments
+Troubleshooting abilities
+Good communication skills
+Excellent problem-solving abilities
+Ability to communicate well and work in a collaborative team environment.
+
+Clearance Required: US Citizenship and ability to hold a TS Security Clearance.
+
+Preferred Skills And Experience
+
+Active Security Clearance of Top-Secret level or higher
+Strong working knowledge using IBM’s Connect: Direct for file transfers
+Proficiency programming in Natural using ADABAS
+Experienced in developing using Software AG’s NaturalONE Eclipse-based development environment
+Experience with using IBM MQ
+Familiarity with Confluence and Jira
+Working knowledge of ServiceNow
+Experience with meeting hosting via MS Teams
+
+Company Overview
+
+GovCIO is a team of transformers--people who are passionate about transforming government IT. Every day, we make a positive impact by delivering innovative IT services and solutions that improve how government agencies operate and serve our citizens.
+
+But we can't do it alone. We need great people to help us do great things - for our customers, our culture, and our ability to attract other great people. We are changing the face of government IT and building a workforce that fuels this mission. Are you ready to be a transformer?
+
+What You Can Expect
+
+Interview & Hiring Process
+
+If you are selected to move forward through the process, here’s what you can expect:
+
+During the Interview Process
+Virtual video interview conducted via video with the hiring manager and/or team
+Camera must be on
+A valid photo ID must be presented during each interview
+
+During the Hiring Process
+Enhanced Biometrics ID verification screening
+Background check, to include:
+Criminal history (past 7 years)
+Verification of your highest level of education
+Verification of your employment history (past 7 years), based on information provided in your application
+Employee Perks
+
+Benefits
+
+At GovCIO, we consistently hear that meaningful work and a collaborative team environment are two of the top reasons our employees enjoy working here. In addition, our employees have access to a range of perks and benefits to support their personal and professional well-being, beyond the standard company offered health benefits, including:
+
+Employee Assistance Program (EAP)
+Corporate Discounts
+Learning & Development platform, to include certification preparation content
+Training, Education and Certification Assistance*
+Referral Bonus Program
+Internal Mobility Program
+Pet Insurance
+Flexible Work Environment
+Available to full-time employees
+
+Our employees’ unique talents and contributions are the driving force behind our success in supporting our customers, which ultimately fuels the success of our company. Join us and be a part of a culture that invests in its people and prioritizes continuous enhancement of the employee experience.
+
+We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, disability, or status as a protected veteran. EOE, including disability/vets.
+
+Posted Pay Range
+
+The posted pay range, if referenced, reflects the range expected for this position at the commencement of employment, however, base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, education, experience, and internal equity. The total compensation package for this position may also include other compensation elements, to be discussed during the hiring process. If hired, employee will be in an “at-will position” and the GovCIO reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, GovCIO or individual department/team performance, and market factors.
+
+Posted Salary Range: USD $82,000.00 - USD $95,000.00 /Yr.

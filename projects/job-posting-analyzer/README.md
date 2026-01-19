@@ -1,19 +1,18 @@
 # Job Posting Analyzer (AI-Assisted)
 
 ## Overview
-A command-line tool that analyzes software job postings to:
-- Identify required and preferred technical skills
-- Flag roles that may not be truly entry-level
-- Generate resume keyword suggestions and tailored bullet ideas
+A deterministic command-line tool that analyzes software job postings to:
+- Detect technical skills using a curated, explainable keyword list
+- Extract experience signals (years and seniority/entry keywords)
+- Produce a conservative entry-level verdict (GO/NO-GO) with reasons
 
 This project was built using a combination of manual development and AI-assisted coding tools (Cursor and ChatGPT), with a focus on validating and testing AI-generated output.
 
-## Features (Planned)
-- Parse job descriptions from text files or pasted input
+## Features
+- Parse job descriptions from `.txt` files (file path input only)
 - Extract technical skills (languages, frameworks, tools)
 - Detect experience requirements and entry-level mismatches
-- Output a structured analysis to the terminal and/or markdown report
-- Optional AI-assisted resume bullet and keyword generation
+- Output a structured analysis to the terminal
 
 ## Why This Project
 This tool reflects a real workflow used by early-career engineers applying to software roles and demonstrates responsible use of generative AI in software development.
@@ -33,4 +32,19 @@ AI tools were used to:
 All AI-generated code was reviewed, modified, and validated through testing.
 
 ## Status
-Project scaffolding complete. Core functionality in progress.
+MVP functionality implemented. Skill extraction and verdict logic are deterministic.
+
+## Usage
+From the project folder:
+
+`python .\src\analyzer.py path\to\posting.txt`
+
+Example:
+
+`python .\src\analyzer.py .\job-posting-test.txt`
+
+## Requirements
+Python 3 must be installed on your machine to run the CLI.
+
+## Sample Data
+Sample listings are stored in the `data/sample_listings` folder.
