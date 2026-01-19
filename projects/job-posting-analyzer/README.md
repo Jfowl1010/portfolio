@@ -41,7 +41,7 @@ From the project folder:
 
 Example:
 
-`python .\src\analyzer.py .\job-posting-test.txt`
+`python .\src\analyzer.py .\data\sample_listings\job=posting-test.txt`
 
 ## Requirements
 Python 3 must be installed on your machine to run the CLI.
